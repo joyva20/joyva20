@@ -35,16 +35,16 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Senior Robotics Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
+name: Joyva Alians Tamam
+located_in: Jakarta, IDN
+from: Jakarta (Indonesia)
+job: Full-Stack Developer
+education: ["Master's TRK"]
+company: -
 past experiences:
-  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
+  - ["Web Developer as Frontend","2022-2025"]
   - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Backend Software Engineer", "Web App Backend (NodeJS/Postgre)", "2020-2021"]
   - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
   - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
   - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
